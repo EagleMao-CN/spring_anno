@@ -7,7 +7,6 @@ import org.springframework.util.AntPathMatcher;
 import org.springframework.util.ClassUtils;
 import org.springframework.util.PathMatcher;
 
-import java.io.IOException;
 import java.util.Properties;
 
 /**
